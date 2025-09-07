@@ -31,14 +31,22 @@ Manual (no Creative Cloud)
 4. Restart Photoshop.
 5. Access the plugin from the Plugins / Extensions menu (depending on build).
 
-### Usage (placeholder)
-Basic flow (you can expand later):
-1. Select an area.
-2. Enter prompt.
-3. Generate.
-4. Pick result.
-
-More detailed usage to be added.
+### Usage
+1. Open from Plug-ins menu: Plug-ins > Nano-Banana Editor.
+   
+	![Plugin menu entry](./plugin-menu.jpg)
+	![Main editing UI](./plugin-UI.jpg)
+2. Click the gear (settings) icon and enter your Gemini API key (stored locally only).
+   
+	![Settings panel](./plugin-setting.jpg)
+   
+	![API key input](./plugin-setting-api-secret.jpg)
+3. Make a selection with any selection tool. (Optional) Click + in the panel to add a reference image.
+4. Type a prompt, e.g. "add a hat to the bird" and press Edit / Generate.
+5. Wait a few seconds; the edited result is inserted as a new layer.
+   
+	![Prompt without reference](./plugin-prompt-no-reference.jpg)
+	![Prompt with reference](./plugin-prompt-with-reference.jpg)
 
 ---
 
@@ -64,14 +72,23 @@ Creative Cloud（推荐）
 4. 重启 Photoshop
 5. 在 插件 / 扩展 菜单中查看（视版本而定）
 
-### 使用（占位）
-基础流程（后续可补充）：
-1. 选区
-2. 输入提示词
-3. 生成
-4. 选择满意结果
+### 使用
+1. 在 “增效工具 (Plug-ins)” 菜单下找到 “Nano-Banana Editor” 并点击，插件 UI 将打开。
+   
+	![菜单入口](./plugin-menu.jpg)
+	![主界面](./plugin-UI.jpg)
+2. 点击齿轮形设置按钮，在弹出的设置界面中输入你的 Gemini API Key（仅保存在本地）。
+   
+	![设置面板](./plugin-setting.jpg)
+   
+	![API 密钥输入框](./plugin-setting-api-secret.jpg)
+3. 使用 “选择工具” 或 “选区画笔” 选中任意区域，点击插件面板中的 “+” 号可添加参考图片（可选）。
+4. 在 prompt 区域写入修改需求，例如 “给鸟戴上帽子”，点击 Edit 生成。
+5. 等待数秒，生成结果会自动作为新图层插入。
+   
+	![无参考图提示](./plugin-prompt-no-reference.jpg)
+	![带参考图提示](./plugin-prompt-with-reference.jpg)
 
-详细使用说明稍后补充。
 
 ---
 
