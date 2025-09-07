@@ -40,13 +40,13 @@ Manual (no Creative Cloud)
 ### Usage
 1. Open from Plug-ins menu: Plug-ins > Nano-Banana Editor.
    
-	<img src="./plugin-menu.jpg" alt="Plugin menu entry" width="700" />
-	<img src="./plugin-UI.jpg" alt="Main editing UI" width="700" />
+	<img src="./plugin-menu.jpg" alt="Plugin menu entry" width="500" />
+	<img src="./plugin-UI.jpg" alt="Main editing UI" width="500" />
 2. Click the gear (settings) icon and enter your Gemini API key (stored locally only).
    
-	<img src="./plugin-setting.jpg" alt="Settings panel" width="700" />
+	<img src="./plugin-setting.jpg" alt="Settings panel" width="500" />
 
-	<img src="./plugin-setting-api-secret.jpg" alt="API key input" width="700" />
+	<img src="./plugin-setting-api-secret.jpg" alt="API key input" width="500" />
 3. Make a selection with any selection tool. (Optional) Click + in the panel to add a reference image.
 4. Type a prompt, e.g. "add a hat to the bird" and press Edit / Generate.
 5. Wait a few seconds; the edited result is inserted as a new layer.
