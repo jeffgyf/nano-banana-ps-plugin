@@ -9,6 +9,12 @@ AI Inpainting inside Adobe Photoshop (Google "Nano Banana" Model)
 
 ---
 
+[Direct Download / 直接下载](https://github.com/jeffgyf/nano-banana-ps-plugin/releases/download/v0.0.1-alpha/nano-banana-editor.ccx)
+
+[All Releases / 全部版本](https://github.com/jeffgyf/nano-banana-ps-plugin/releases)
+
+---
+
 ## English
 
 Requirement: Adobe Photoshop 2022 (v23) or newer (UXP plugin support required).
