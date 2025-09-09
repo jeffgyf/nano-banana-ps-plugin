@@ -101,7 +101,7 @@ Creative Cloud（推荐）
 Support / 支持作者:
 
 Buy Me A Coffee: https://buymeacoffee.com/kakujeff  
-爱发电: https://afdian.com/a/kakujeff
+
 
 
 
